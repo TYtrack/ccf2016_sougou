@@ -1,6 +1,4 @@
 ## 2016CCF [大数据精准营销中搜狗用户画像挖掘](http://www.wid.org.cn/data/science/player/competition/detail/description/239)  final winner solution
-
-
 李恒超、[李裕礞](https://github.com/liyumeng)、王安然、钱凌飞、任璐
 
 大连理工大学信息检索实验室
